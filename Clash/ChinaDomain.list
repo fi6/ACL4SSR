@@ -1,5 +1,9 @@
 # 直连列表
 
+# 自定义国内域名
+DOMAIN-SUFFIX,bigai.ai
+DOMAIN-SUFFIX,kaiheila.cn
+
 # MyList
 DOMAIN-SUFFIX,13th.tech
 DOMAIN-SUFFIX,423down.com

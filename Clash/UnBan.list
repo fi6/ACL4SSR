@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# Custom
+DOMAIN-SUFFIX,metrics.apple.com
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 

@@ -1,5 +1,33 @@
 # 代理列表
 
+# 自定义国外
+DOMAIN-SUFFIX,ros.org
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,neu.edu
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,namesilo.com
+DOMAIN-SUFFIX,nestjs.com
+DOMAIN-SUFFIX,trimsh.org
+DOMAIN-SUFFIX,overleaf.com
+DOMAIN-SUFFIX,overleafusercontent.com
+DOMAIN-SUFFIX,typeorm.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,proxmox.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.ee
+DOMAIN-SUFFIX,gen.lib.rus.ec
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
@@ -250,6 +278,8 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,vscode-unpkg.net
 
 # Google
 DOMAIN-SUFFIX,1e100.net

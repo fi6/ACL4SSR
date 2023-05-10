@@ -4,6 +4,10 @@
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
+# 自定义局域网地址
+DOMAIN,captive.apple.com
+IP-CIDR,1.1.1.3/32,no-resolve
+
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
